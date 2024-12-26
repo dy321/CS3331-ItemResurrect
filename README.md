@@ -6,4 +6,6 @@ Project for CS3331 (2024Autumn)
 - Step3: Optimize data storage
 - Step4: Add user registration and login functions and item categorization
 
+To get started my Item Resurrect Program, run main.py in the ItemResurrect_final folder
+
 PSP: <https://www.cnblogs.com/dy2iin/articles/18487880>
