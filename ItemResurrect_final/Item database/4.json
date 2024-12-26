@@ -1,0 +1,5 @@
+[
+    {"name": "螺丝刀", "contact": "刘小姐", "phone": "13352637281", "mail": "SJTU-x11", "introduction": "多功能螺丝刀套装", "email": "luosidao@sjtu.edu.cn", "p1": "标准型号", "p2": "家用维修", "p3": "20cm"},
+    {"name": "电钻", "contact": "刘小姐", "phone": "13327382765", "mail": "x60", "introduction": "适合家庭装修使用", "email": "", "p1": "电动型号", "p2": "钻孔", "p3": "30cm"},
+    {"name": "扳手", "contact": "刘小姐", "phone": "15127367764", "mail": "d18-203", "introduction": "坚固耐用", "email": "", "p1": "重型型号", "p2": "紧固螺栓", "p3": "25cm"}
+]

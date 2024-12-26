@@ -1,0 +1,5 @@
+[
+    {"name": "百年孤独", "contact": "刘小姐", "phone": "13352637281", "mail": "SJTU-x11", "introduction": "经典文学作品", "email": "bainiangudu@sjtu.edu.cn", "p1": "加西亚·马尔克斯", "p2": "南海出版公司", "p3": ""},
+    {"name": "算法导论", "contact": "刘小姐", "phone": "13327382765", "mail": "x60", "introduction": "计算机科学经典教材", "email": "", "p1": "Thomas H. Cormen", "p2": "机械工业出版社", "p3": ""},
+    {"name": "活着", "contact": "刘小姐", "phone": "15127367764", "mail": "d18-203", "introduction": "余华的代表作", "email": "", "p1": "余华", "p2": "作家出版社", "p3": ""}
+]
